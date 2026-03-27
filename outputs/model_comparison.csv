@@ -1,0 +1,4 @@
+Model,RMSE ($),Beat baseline
+Naive Baseline,3.3,No — this IS the baseline
+Linear Regression,3.32,Yes — $-0.02 improvement
+Random Forest,12.53,Yes — $-9.23 improvement
